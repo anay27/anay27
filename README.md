@@ -4,7 +4,9 @@
 
 # The computational drug discovery project is divided into 5 parts:
 Part 1: Download Bioactivity data
+
 Part 2: Exploratory Data Analysis
+
 Part 3: Descriptor Calculation and Dataset Preparation
 Part 4: Regression Models with Random Fores
 Part 5: Comparing Regressors
