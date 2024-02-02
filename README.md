@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @anay27
-- 👀 I’m interested in Python and R
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @ anay.athawale@gmail.com
+- 👋 Hi, I’m Anay
+
+- 📫 How to reach me @ athawale.a@northeastern.edu
 
 <!---
 anay27/anay27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
